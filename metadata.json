@@ -1,0 +1,7 @@
+{
+  "name": "DEADLINE DASH — JOBLESS 2.0",
+  "description": "An intense, chaotic office survival game where you juggle tasks, avoid distractions, and beat deadlines.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
